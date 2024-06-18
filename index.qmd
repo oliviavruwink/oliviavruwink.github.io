@@ -1,19 +1,21 @@
 ---
-title: "Olivia Vruwink"
+title: "Olivia Vruwink <br> CCC-SLP"
 image: media/Olivia_photo.jpeg
 toc: false
 about: 
   template: trestles
   image-shape: round
   image-width: 15em
-  links:
-    - text: GitHub
-      href: https://github.com/oliviavruwink
-      icon: github
-    - text: Email
-      href: mailto:vruwi005@umn.edu
-      icon: envelope
+
 ---
+*Website under construction*
+
+# Hello!
+My name is Olivia Vruwink (pronounced 'vroo-wink'). After working clinically as a speech-language pathologist in the public schools for three years, I enrolled in a doctoral program in Speech-Language-Hearing Sciences at the University of Minnesota. I am studying various aspects of rehabilitation after traumatic brain injury, under the supervision of [Dr. Natalie Covington](https://cla.umn.edu/about/directory/profile/nvcoving). Please click the 'About Me' tab at the top to learn more!
+
+Welcome to my personal website, which is still very much under construction. Many thanks to Samantha Csik for her spectacular [tutorial on creating a personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/).
+
+------------------------------------------------------------------------
 
 ## {{< fa graduation-cap >}} Education
 

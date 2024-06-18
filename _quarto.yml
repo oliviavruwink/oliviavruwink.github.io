@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
+  favicon: favicon.png
   navbar:
     title: "Olivia Vruwink"
-    favicon: favicon.png
     right:
       - href: index.qmd
         text: Home

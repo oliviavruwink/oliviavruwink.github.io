@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+*Page Under Construction*
 
-```{r}
-1 + 1
-```
+### {{< fa laptop >}} Professionally
+
+
+
+
+### {{< fa dog >}} Personally
+I love spending time with my partner, Matt, and our dog Blu (full name Blugold as we are both alumni of UW-Eau Claire) who is a Giant Schnauzer. I grew up in Wisconsin 
+
