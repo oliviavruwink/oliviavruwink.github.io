@@ -3,19 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Olivia Vruwink"
   navbar:
-    left:
+    title: "Olivia Vruwink"
+    favicon: media/brain.png
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Vruwink_Olivia_CV_20240617.pdf
+        text: CV 
+  page-footer:
+    right: © Copyright 2024, Olivia Vruwink
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
     page-layout: full
 
-editor: visual
+editor: source
 

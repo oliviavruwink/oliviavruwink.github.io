@@ -5,10 +5,23 @@ toc: false
 about: 
   template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 15em
   links:
     - text: GitHub
       href: https://github.com/oliviavruwink
+      icon: github
     - text: Email
       href: mailto:vruwi005@umn.edu
+      icon: envelope
 ---
+
+## {{< fa graduation-cap >}} Education
+
+**PhD Student in Speech-Language-Hearing-Sciences** | 2022-Present <br>
+University of Minnesota
+
+**MS in Communication Disorders** | 2019 <br>
+Minnesota State University, Mankato
+
+**BS in Communication Sciences & Disorders** | 2017 <br>
+University of Wisconsin-Eau Claire
