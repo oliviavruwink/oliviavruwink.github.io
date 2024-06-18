@@ -3,15 +3,20 @@ project:
   output-dir: docs
 
 website:
-  favicon: favicon.png
+  favicon: media/favicon.png
   navbar:
     title: "Olivia Vruwink"
+    logo: media/brain.png
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: Vruwink_Olivia_CV_20240617.pdf
         text: CV 
+      - icon: github
+        href: https://github.com/oliviavruwink
+      - icon: envelope
+        href: mailto:vruwi005@umn.edu
   page-footer:
     right: © Copyright 2024, Olivia Vruwink
 
