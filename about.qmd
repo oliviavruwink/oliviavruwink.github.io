@@ -2,13 +2,9 @@
 title: "About Me"
 ---
 
-*Page Under Construction*
+### {{< fa dog >}}
+I love spending time with my partner Matt and Blu, our Giant Schnauzer. We enjoy traveling, playing cribbage, and listening to live music. 
 
-### {{< fa laptop >}} Professionally
+image: media/blu.jpeg
 
-
-
-
-### {{< fa dog >}} Personally
-I love spending time with my partner, Matt, and our dog Blu (full name Blugold as we are both alumni of UW-Eau Claire) who is a Giant Schnauzer. I grew up in Wisconsin 
-
+I grew up in Wisconsin—Go Pack Go—but enjoy living in Minnesota! I love [reading](https://www.goodreads.com/user/show/1833189-olivia), listening to podcasts, and [puzzling](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c).
