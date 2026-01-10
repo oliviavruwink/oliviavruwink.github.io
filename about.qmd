@@ -3,8 +3,8 @@ title: "About Me"
 ---
 
 ### {{< fa dog >}}
-I love spending time with my partner Matt and Blu, our Giant Schnauzer. We enjoy traveling, playing cribbage, and listening to live music. 
+I grew up in Wisconsin—Go Pack Go—but enjoy living in Minnesota! I to read, listen to podcasts, and puzzle (can you [puzzle faster](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c) than me?). My favorite TV show is Survivor. I enjoy spending time playing cribbage and listening to live music with my partner Matt and walking our Giant Schnauzer, Blu.
 
-image: media/blu.jpeg
+![](media/blu.jpeg){alt="Blu the Giant Schnauzer" width=350}
 
-I grew up in Wisconsin—Go Pack Go—but enjoy living in Minnesota! I love [reading](https://www.goodreads.com/user/show/1833189-olivia), listening to podcasts, and [puzzling](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c).
+
