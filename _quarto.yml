@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Vruwink_Olivia_CV_website_20260109.pdf
+      - href: media/Vruwink_Olivia_CV_website_20260109.pdf
         text: CV 
       - icon: github
         href: https://github.com/oliviavruwink
