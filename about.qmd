@@ -1,17 +1,20 @@
 ---
 title: "About Me"
+toc: false
 ---
 
-### {{< fa dog >}}
+### {{< fa dog >}} Outside of Work
 
-I grew up in Wisconsin—Go Pack Go! I like to read, listen to podcasts, and puzzle (can you [puzzle faster](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c) than me?). I recently took a beginner crochet class and am hooked! My favorite TV show is Survivor.
+I grew up in Wisconsin—Go Pack Go! I like to read, listen to podcasts, and puzzle (can you [puzzle faster](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c) than me?). I recently took a beginner crochet class and am hooked! My favorite TV show is *Survivor*.
 
-My partner Matt and I enjoy playing cribbage and listening to live music, as well as walking our Giant Schnauzer, Blu—short for Blugold, a nod to where we met at UW–Eau Claire.
+My partner Matt and I enjoy playing cribbage, listening to live music, and walking our Giant Schnauzer, Blu—short for Blugold, a nod to where we met at UW–Eau Claire.
 
-![](media/Blu_EC.jpeg){fig-align="center"}
+::: {layout-ncol=2}
+![](media/Blu_EC.jpeg){fig-alt="Blu beside a dog statue at Phoenix Park"}
 
-![](media/Bluception.jpeg){fig-align="center"}
+![](media/blu.jpeg){fig-alt="A younger Blu laying on a park bench"}
 
-![](media/blu.jpeg){fig-align="center"}
+![](media/Bluception.jpeg){fig-alt="Blu with the UW–Eau Claire Blugold mascot"}
 
-![](media/Blu_Puppy.jpeg){fig-align="center"}
+![](media/Blu_Puppy.jpeg){fig-alt="Blu sleeping as a puppy"}
+:::
