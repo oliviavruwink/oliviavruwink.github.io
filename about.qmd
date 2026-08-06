@@ -3,8 +3,7 @@ title: "About Me"
 ---
 
 ### {{< fa dog >}}
-I grew up in Wisconsin—Go Pack Go—but enjoy living in Minnesota! I to read, listen to podcasts, and puzzle (can you [puzzle faster](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c) than me?). My favorite TV show is Survivor. I enjoy spending time playing cribbage and listening to live music with my partner Matt and walking our Giant Schnauzer, Blu.
 
-![](media/blu.jpeg){alt="Blu the Giant Schnauzer" width=350}
+I grew up in Wisconsin—Go Pack Go! I like to read, listen to podcasts, crochet, and puzzle (can you [puzzle faster](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c) than me?). My favorite TV show is Survivor. I enjoy spending time playing cribbage and listening to live music with my partner Matt and walking our Giant Schnauzer, Blu.
 
-
+![](media/blu.jpeg){alt="Blu the Giant Schnauzer" width="350"}
