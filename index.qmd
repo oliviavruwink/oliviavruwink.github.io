@@ -1,5 +1,5 @@
 ---
-title: "Olivia Vruwink, MS, CCC-SLP"
+title: "Olivia Vruwink, MS CCC-SLP"
 subtitle: "PhD Candidate | Speech-Language Pathologist"
 image: media/Vruwink_headshot_202507.png
 toc: false
