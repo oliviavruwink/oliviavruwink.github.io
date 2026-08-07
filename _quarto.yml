@@ -10,13 +10,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: media/Vruwink_Olivia_CV_Website_20260806.pdf
-        text: CV 
+      - href: about.qmd
+        text: About Me
       - icon: github
         href: https://github.com/oliviavruwink
-      - icon: envelope
-        href: mailto:vruwi005@umn.edu
 
   page-footer:
     right: © Copyright 2026, Olivia Vruwink

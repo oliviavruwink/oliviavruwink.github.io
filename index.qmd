@@ -1,24 +1,44 @@
 ---
-title: "Olivia Vruwink <br> CCC-SLP"
+title: "Olivia Vruwink, MS, CCC-SLP"
+subtitle: "PhD Candidate | Speech-Language Pathologist"
 image: media/Vruwink_headshot_202507.png
 toc: false
-about: 
+about:
   template: trestles
   image-shape: round
   image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:vruwi005@umn.edu
+    - icon: file-earmark-person
+      text: CV
+      href: media/Vruwink_Olivia_CV_Website_20260806.pdf
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=dn0buZMAAAAJ&hl=en
 ---
 
 # Hello!
 
-My name is Olivia Vruwink (pronounced 'vroo-wink'). I am a speech-language pathologist and PhD candidate in Speech-Language-Hearing Sciences at the University of Minnesota. I am studying various aspects of rehabilitation after traumatic brain injury (TBI) under the supervision of [Dr. Natalie Covington](https://cla.umn.edu/about/directory/profile/nvcoving). My research interests include purpose in life in TBI survivors and their care partners, with a focus on how it may contribute to overall well-being and rehabilitation outcomes. I am also interested in the scholarship of teaching and learning (SoTL) in the field of communication sciences and disorders. I aim to obtain a tenure-track faculty position with a mix of research and teaching/clinical responsibilities.
+I am a speech-language pathologist and PhD candidate in Speech-Language-Hearing Sciences at the University of Minnesota. I am studying various aspects of rehabilitation after traumatic brain injury (TBI) under the supervision of [Dr. Natalie Covington](https://cla.umn.edu/about/directory/profile/nvcoving). 
 
-Welcome to my personal website. Many thanks to Samantha Csik for her spectacular [tutorial](https://ucsb-meds.github.io/creating-quarto-websites/).
+My research examines purpose in life, psychosocial well-being, and adjustment after traumatic brain injury, with particular attention to TBI survivor–care partner dyads.
+
+I am also interested in community-engaged rehabilitation and the scholarship of teaching and learning in communication sciences and disorders.
+
+## {{< fa magnifying-glass >}} Research Interests
+
+- Purpose in life and well-being after traumatic brain injury
+- Care partner and dyadic adjustment
+- Community-engaged rehabilitation
+- Scholarship of teaching and learning
 
 ------------------------------------------------------------------------
 
 ## {{< fa graduation-cap >}} Education
 
-**PhD Candidate | Speech-Language-Hearing-Sciences** \| 2022-Summer 2027 <br> University of Minnesota
+**PhD | Speech-Language-Hearing-Sciences** \| Summer 2027 <br> University of Minnesota
 
 **MS | Communication Disorders** \| 2019 <br> Minnesota State University, Mankato
 
