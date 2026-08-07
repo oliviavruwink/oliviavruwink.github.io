@@ -1,1 +1,54 @@
-/* css styles */
+/* Main page colors */
+body {
+  background-color: #ededed;
+  color: #2f3337;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #80a689 !important;
+}
+
+/* Dark text provides better contrast against the light green */
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #203126 !important;
+}
+
+.navbar .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  color: #80a689;
+}
+
+/* Regular links */
+a {
+  color: #a680b0;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #76557f;
+}
+
+/* Homepage profile buttons */
+.about-link {
+  color: #76557f !important;
+  border-color: #a680b0 !important;
+}
+
+.about-link:hover {
+  color: #2f2133 !important;
+  background-color: #a680b0 !important;
+}
+
+/* Horizontal dividing lines */
+hr {
+  border-color: #80a689;
+  opacity: 1;
+}
