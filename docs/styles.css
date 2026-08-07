@@ -52,3 +52,44 @@ hr {
   border-color: #80a689;
   opacity: 1;
 }
+
+/* Brand icons for homepage profile links */
+.about-link[href*="orcid.org"]::before,
+.about-link[href*="researchgate.net"]::before,
+.about-link[href*="linkedin.com"]::before {
+  display: inline-block;
+  width: 1.1em;
+  margin-right: 0.35rem;
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+  text-align: center;
+}
+
+/* ORCID brand icon */
+.about-link[href*="orcid.org"]::before {
+  content: "\f8d2";
+}
+
+/* ResearchGate brand icon */
+.about-link[href*="researchgate.net"]::before {
+  content: "\f4f8";
+}
+
+/* LinkedIn brand icon */
+.about-link[href*="linkedin.com"]::before {
+  content: "\f08c";
+}
+
+/* Arrange homepage links in three rows of two */
+.about-links {
+  display: grid !important;
+  grid-template-columns: max-content max-content;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+}
+
+.about-links .about-link {
+  margin: 0 !important;
+  width: auto;
+}

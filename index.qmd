@@ -17,15 +17,21 @@ about:
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=dn0buZMAAAAJ&hl=en
+    - text: ORCID
+      href: https://orcid.org/0000-0001-9112-1147
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Olivia-Vruwink
+    - text: LinkedIn
+      href: www.linkedin.com/in/olivia-vruwink
 ---
 
 # Hello!
 
-I am a speech-language pathologist and PhD candidate in Speech-Language-Hearing Sciences at the University of Minnesota. I am studying various aspects of rehabilitation after traumatic brain injury (TBI) under the supervision of [Dr. Natalie Covington](https://cla.umn.edu/about/directory/profile/nvcoving). 
+I am a speech-language pathologist and PhD candidate in the Department of Speech-Language-Hearing Sciences at the University of Minnesota, where I work under the mentorship of [Dr. Natalie Covington](https://cla.umn.edu/about/directory/profile/nvcoving). 
 
-My research examines purpose in life, psychosocial well-being, and adjustment after traumatic brain injury, with particular attention to TBI survivor–care partner dyads.
+I am currently working on my dissertation, tentatively titled *Purpose in Life & Well-Being Among Care Partners of Individuals with Traumatic Brain Injury–Related Cognitive-Communication Disorders: A Mixed-Methods Investigation*.
 
-I am also interested in community-engaged rehabilitation and the scholarship of teaching and learning in communication sciences and disorders.
+------------------------------------------------------------------------
 
 ## {{< fa magnifying-glass >}} Research Interests
 
