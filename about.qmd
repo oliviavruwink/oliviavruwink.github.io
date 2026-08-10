@@ -3,6 +3,23 @@ title: "About Me"
 toc: false
 ---
 
+### {{< fa timeline >}} Academic & Clinical Journey
+My interest in research began as an undergraduate at the University of Wisconsin-Eau Claire. Within the Scholarship of Teaching and Learning (SoTL) Lab and under the mentorship of Dr. Jerry Hoepner, I qualitatively analyzed the acceptability of a modified flipped classroom teaching pedagogy. During my master's program at Minnesota State University, Mankato I researched the impact of interprofessional education within a recreation/literacy camp with Dr. Megan Mahowald.
+
+I then worked clinically as an SLP in the public schools for three years, working with students ranging from preschool through age 21. Managing a diverse caseload strengthened my skills in clinical reasoning and interdisciplinary collaboration, and also illuminated how research is applied in real-world settings. 
+
+These experiences deepened my interest in conducting clinically meaningful research and ultimately led me to pursue doctoral training at the University of Minnesota in Dr. Natalie Covington's Trajectories after Brain Injury (TABI) Lab, where my work focuses on psychosocial well-being and rehabilitation after traumatic brain injury, particularly among individuals with TBI and their care partners.
+
+::: {layout-ncol=2}
+
+![Presenting at the Celebration of Excellence in Research and Creative Activity (CERCA) at UW-Eau Claire with Dr. Hoepner (L)](media/cerca.jpeg){fig-alt="Olivia presenting at CERCA at UWEC”}
+
+![Presenting Rec ’N Read research at ASHA 2018 with Dr. Mahowald (L) and Erin Soucek (R)](media/recnread.jpeg){fig-alt="Olivia presenting at ASHA 2018”}
+
+![On a break from presenting at the International Cognitive Communication Disorders Conference 2024 with Dr. Mary Radomski (middle) and my advisor Dr. Covington (R)](media/mary.jpeg){fig-alt="Olivia at the ICCDC conference”}
+
+![A fun setting for research is the Minnesota State Fair! Here I am with my friends and cohort members HaeJi (middle) and Miriam (R).](media/cohort.jpeg){fig-alt=“Olivia and cohort members at MN State Fair”}
+
 ### {{< fa dog >}} Outside of Work
 
 I grew up in Wisconsin—Go Pack Go! I like to read, listen to podcasts, and [puzzle](https://myspeedpuzzling.com/en/player-profile/0193cd4b-faa8-7252-aff3-96fdfc47cf9c). I recently took a beginner crochet class and am hooked! My favorite TV show is *Survivor*.
