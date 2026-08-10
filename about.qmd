@@ -10,15 +10,17 @@ I then worked clinically as an SLP in the public schools for three years, workin
 
 These experiences deepened my interest in conducting clinically meaningful research and ultimately led me to pursue doctoral training at the University of Minnesota in Dr. Natalie Covington's Trajectories after Brain Injury (TABI) Lab, where my work focuses on psychosocial well-being and rehabilitation after traumatic brain injury, particularly among individuals with TBI and their care partners.
 
-::: {layout-ncol=2}
+::: {.photo-gallery layout-ncol=2}
 
-![Presenting at the Celebration of Excellence in Research and Creative Activity (CERCA) at UW-Eau Claire with Dr. Hoepner (L)](media/cerca.jpeg){fig-alt="Olivia presenting at CERCA at UWEC”}
+![Presenting at CERCA at UW–Eau Claire with Dr. Jerry Hoepner (left).](media/cerca.jpg){fig-alt="Olivia presenting undergraduate research at CERCA"}
 
-![Presenting Rec ’N Read research at ASHA 2018 with Dr. Mahowald (L) and Erin Soucek (R)](media/recnread.jpeg){fig-alt="Olivia presenting at ASHA 2018”}
+![Presenting Rec ’N Read research at ASHA 2018 with Dr. Megan Mahowald (left) and Erin Soucek (right).](media/recnread.jpeg){fig-alt="Olivia presenting Rec N Read research at ASHA 2018"}
 
-![On a break from presenting at the International Cognitive Communication Disorders Conference 2024 with Dr. Mary Radomski (middle) and my advisor Dr. Covington (R)](media/mary.jpeg){fig-alt="Olivia at the ICCDC conference”}
+![At the 2024 International Cognitive-Communication Disorders Conference with Dr. Mary Radomski (middle) and Dr. Natalie Covington (right).](media/mary.jpeg){fig-alt="Olivia with Mary Radomski and Natalie Covington at the ICCDC conference"}
 
-![A fun setting for research is the Minnesota State Fair! Here I am with my friends and cohort members HaeJi (middle) and Miriam (R).](media/cohort.jpeg){fig-alt=“Olivia and cohort members at MN State Fair”}
+![Conducting research at the Minnesota State Fair with my cohort members HaeJi (middle) and Miriam (right).](media/cohort.jpeg){fig-alt="Olivia and two cohort members at the Minnesota State Fair"}
+
+:::
 
 ### {{< fa dog >}} Outside of Work
 
@@ -26,12 +28,14 @@ I grew up in Wisconsin—Go Pack Go! I like to read, listen to podcasts, and [pu
 
 My partner Matt and I enjoy playing cribbage, listening to live music, and walking our Giant Schnauzer, Blu—short for Blugold, a nod to where we met at UW–Eau Claire.
 
-::: {layout-ncol=2}
-![](media/Blu_EC.jpeg){fig-alt="Blu beside a dog statue at Phoenix Park"}
+::: {.photo-gallery layout-ncol=2}
 
-![](media/blu.jpeg){fig-alt="A younger Blu laying on a park bench"}
+![Blu at Phoenix Park in Eau Claire.](media/Blu_EC.jpeg){fig-alt="Blu sitting beside a dog statue at Phoenix Park"}
 
-![](media/Bluception.jpeg){fig-alt="Blu with the UW–Eau Claire Blugold mascot"}
+![A younger Blu enjoying a park bench.](media/blu.jpeg){fig-alt="A younger Blu lying on a park bench"}
 
-![](media/Blu_Puppy.jpeg){fig-alt="Blu sleeping as a puppy"}
+![Blu meeting UW–Eau Claire’s Blu the Blugold.](media/Bluception.jpeg){fig-alt="Blu posing with the UW–Eau Claire Blugold mascot"}
+
+![Blu as a sleepy puppy.](media/Blu_Puppy.jpeg){fig-alt="Blu sleeping as a puppy"}
+
 :::
