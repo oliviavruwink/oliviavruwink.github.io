@@ -93,3 +93,14 @@ hr {
   margin: 0 !important;
   width: auto;
 }
+
+/* Small captions beneath photographs */
+.quarto-figure figcaption,
+figure figcaption,
+.figure-caption {
+  margin-top: 0.3rem;
+  color: #666666;
+  font-size: 0.78rem !important;
+  line-height: 1.3;
+  text-align: center;
+}
