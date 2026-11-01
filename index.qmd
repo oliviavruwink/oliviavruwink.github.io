@@ -13,7 +13,7 @@ about:
       href: mailto:vruwi005@umn.edu
     - icon: file-earmark-person
       text: CV
-      href: media/Vruwink_Olivia_CV_Website_20260806.pdf
+      href: media/Vruwink_CV_20261031.pdf
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=dn0buZMAAAAJ&hl=en
