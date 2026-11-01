@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - media/Vruwink_Olivia_CV_Website_20260806.pdf
+    - media/Vruwink_CV_20261031
 
 website:
   favicon: media/favicon.png
